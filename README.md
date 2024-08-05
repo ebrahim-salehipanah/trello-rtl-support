@@ -1,5 +1,5 @@
 # پشتیبانی از راست به چپ در Trello
-این افزونه مرورگر قابلیت نوشتن از راست به چپ را به Trello اضافه می‌کند و برای زبان‌هایی مانند عبری، عربی یا فارسی بسیار مفید است.
+این افزونه مرورگر قابلیت نوشتن و خواندن از راست به چپ را به Trello اضافه می‌کند و برای زبان‌هایی مانند عبری، عربی یا فارسی بسیار مفید است.
 
 # نصب
 این مخزن را دانلود یا کلون کنید: https://github.com/ebrahim-salehipanah/trello-rtl-support.git.
@@ -9,13 +9,10 @@
 # مجوز
 این پروژه تحت مجوز MIT License منتشر شده است.
 
-# مشارکت‌ها
-مشارکت در این پروژه خوش‌آمد است. لطفاً مشکلات را باز کنید و درخواست‌های کشش را ارسال کنید.
-
 
 # Trello RTL support
 
-This browser extension adds RTL functionality to Trello, allowing users to write from right to left. It’s particularly helpful for languages like Hebrew, Arabic, or Persian.
+This browser extension adds RTL functionality to Trello, allowing users to write and read from right to left. It’s particularly helpful for languages like Hebrew, Arabic, or Persian.
 
 # Installation
 
